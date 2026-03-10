@@ -1,0 +1,5 @@
+{
+  "name": "AI Healthcare Assistant Platform",
+  "description": "Complete AI-powered platform for doctors: voice consultations, medical report generation, smart prescriptions, EMR, and hospital analytics.",
+  "requestFramePermissions": ["microphone"]
+}
